@@ -12,7 +12,7 @@
 export default {
   data() {
     return {
-      example: "initial value",
+      example2: "initial value",
       items: []
     };
   },
